@@ -10,6 +10,10 @@
     "geo",
     "user-agent"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xretic/whoami-nextjs-id.git"
+  },
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
